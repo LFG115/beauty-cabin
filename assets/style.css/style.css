@@ -3,15 +3,19 @@
     margin: 0;
     box-sizing: border-box;
 }
+body {
+    /* General styles */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: rgb(247, 255, 208);
+}
 header {
     background-color: rgb(189, 187, 187);
-}
+} 
 main {
-    background-color: rgb(247, 255, 208);
+    flex: 1 0 auto
 }
 footer {
     background-color: rgb(189, 187, 187);
-}
-#logo {
-    
-}
+} 
