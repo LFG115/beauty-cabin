@@ -8,10 +8,10 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: rgb(247, 255, 208);
+    background-color: rgb(216, 225, 187);
 }
 header {
-    background-color: rgb(189, 187, 187);
+    background-color: rgb(208, 197, 174);
 } 
 header a {
     text-decoration: none;
@@ -21,5 +21,5 @@ main {
     flex: 1 0 auto
 }
 footer {
-    background-color: rgb(189, 187, 187);
+    background-color: rgb(208, 197, 174);
 } 
