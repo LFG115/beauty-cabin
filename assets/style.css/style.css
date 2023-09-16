@@ -72,9 +72,17 @@ main {
     flex: 1 0 auto;
     margin-top: 60px;
 }
-footer {
+#social-networks {
     background-color: rgb(208, 197, 174);
+    text-align: center;
+    list-style-type: none;
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-evenly;
 } 
+#social-networks  i {
+    font-size: 200%;
+}
 /* Media Query Tablets and larger */
 @media screen and (min-width:768px) {
     /* header */
