@@ -18,7 +18,7 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 4px #3a3a3a;
+    box-shadow: 0 2px 2px rgb(12, 12, 12);
 } 
 #logo {
     font-family: 'water brush', Arial;
@@ -37,6 +37,15 @@ header a {
     color: inherit;
     font-family: 'alex brush', sans-serif;
     font-weight: 600;
+}
+nav {
+    position: absolute;
+    background-color: rgb(208, 197, 174);
+    width: 100%;
+    left: 0;
+    box-shadow: 0 2px 2px rgb(12, 12, 12);
+    padding: 0 .5rem;
+    display: none;
 }
 #treatments-£ {
     font-family: 'caveat brush', sans-serif;
