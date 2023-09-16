@@ -63,9 +63,15 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
-#treatments-£ {
+h3 {
     font-family: 'caveat brush', sans-serif;
-    font-weight: 200px;
+    text-align: center;
+    font-size: 45px;
+}
+#treatments-£ > li {
+    font-family: 'caveat brush', sans-serif;
+    font-size: 30px;
+    text-align: center;
 }
 main {
     background-color: rgb(216, 225, 187);
