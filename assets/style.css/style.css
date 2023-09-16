@@ -70,8 +70,28 @@ nav {
 main {
     background-color: rgb(216, 225, 187);
     flex: 1 0 auto;
-    margin-top: 50px;
+    margin-top: 60px;
 }
 footer {
     background-color: rgb(208, 197, 174);
 } 
+/* Media Query Tablets and larger */
+@media screen and (min-width:768px) {
+    /* header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding: .5rem;
+    }
+    #menu {
+        display:flex;
+    }
+    #menu > li {
+        padding-left: 2rem;
+    }
+    .nav-toggle-label {
+        display: none;
+    }
+}
