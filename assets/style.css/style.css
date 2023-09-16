@@ -68,7 +68,9 @@ nav {
     font-weight: 200px;
 }
 main {
-    flex: 1 0 auto
+    background-color: rgb(216, 225, 187);
+    flex: 1 0 auto;
+    margin-top: 50px;
 }
 footer {
     background-color: rgb(208, 197, 174);
