@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Water+Brush&display=swap');
+
 * {
     padding: 0;
     margin: 0;
@@ -13,6 +15,10 @@ body {
 header {
     background-color: rgb(208, 197, 174);
 } 
+#logo {
+    font-family: 'water brush';
+    font-weight: 200;
+}
 header a {
     text-decoration: none;
     color: inherit;
