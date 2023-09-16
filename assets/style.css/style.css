@@ -20,8 +20,13 @@ header {
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
 } 
-nav {
-    
+#menu {
+    font-size: 115%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+#menu > li {
+    margin-bottom: 1px;
 }
 #logo {
     font-family: 'water brush', Arial;
