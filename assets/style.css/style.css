@@ -60,6 +60,9 @@ nav {
 #nav-toggle {
     display: none;
 }
+.nav-toggle-label {
+    font-size: 2rem;
+}
 #treatments-£ {
     font-family: 'caveat brush', sans-serif;
     font-weight: 200px;
