@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Water+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Caveat+Brush&family=Water+Brush&display=swap');
 
 * {
     padding: 0;
@@ -16,12 +16,17 @@ header {
     background-color: rgb(208, 197, 174);
 } 
 #logo {
-    font-family: 'water brush';
-    font-weight: 200;
+    font-family: 'water brush', Arial;
+    font-weight: 300;
 }
 header a {
     text-decoration: none;
     color: inherit;
+    font-family: 'alex brush', sans-serif;
+    font-weight: 600;
+}
+#treatments-£ {
+    font-family: 'caveat brush', sans-serif;
 }
 main {
     flex: 1 0 auto
