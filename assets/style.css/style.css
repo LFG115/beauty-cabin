@@ -57,6 +57,9 @@ nav {
 #nav-toggle:checked~nav {
     display: block;
 }
+#nav-toggle {
+    display: none;
+}
 #treatments-£ {
     font-family: 'caveat brush', sans-serif;
     font-weight: 200px;
