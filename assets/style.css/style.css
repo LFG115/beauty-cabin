@@ -18,19 +18,19 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 2px #3a3a3a;
+    box-shadow: 0 2px 4px #3a3a3a;
 } 
+#logo {
+    font-family: 'water brush', Arial;
+    font-weight: 300;
+}
 #menu {
     font-size: 115%;
     letter-spacing: 4px;
     list-style-type: none;
 }
 #menu > li {
-    margin-bottom: 1px;
-}
-#logo {
-    font-family: 'water brush', Arial;
-    font-weight: 300;
+    margin-bottom: .5rem;
 }
 header a {
     text-decoration: none;
@@ -40,6 +40,7 @@ header a {
 }
 #treatments-£ {
     font-family: 'caveat brush', sans-serif;
+    font-weight: 200px;
 }
 main {
     flex: 1 0 auto
