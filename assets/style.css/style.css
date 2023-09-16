@@ -32,7 +32,7 @@ header {
 }
 #menu {
     font-size: 115%;
-    letter-spacing: 4px;
+    letter-spacing: 2.5px;
     list-style-type: none;
 }
 #menu > li {
@@ -70,7 +70,7 @@ nav {
 main {
     background-color: rgb(216, 225, 187);
     flex: 1 0 auto;
-    margin-top: 60px;
+    margin-top: 50px;
 }
 #social-networks {
     background-color: rgb(208, 197, 174);
@@ -97,9 +97,19 @@ main {
         display:flex;
     }
     #menu > li {
-        padding-left: 2rem;
+        padding-left: 1rem;
     }
     .nav-toggle-label {
         display: none;
+    }
+    #logo {
+        font-size: 280%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+    main {
+        background-color: rgb(216, 225, 187);
+        flex: 1 0 auto;
+        margin-top: 80px;
     }
 }
