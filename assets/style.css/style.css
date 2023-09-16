@@ -26,6 +26,9 @@ header {
 #logo {
     font-family: 'water brush', Arial;
     font-weight: 300;
+    text-decoration:underline;
+    text-decoration-thickness: 1px;
+    text-decoration-skip-ink: auto;
 }
 #menu {
     font-size: 115%;
