@@ -63,6 +63,7 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
+
 h3 {
     font-family: 'caveat brush', sans-serif;
     text-align: center;
@@ -77,6 +78,7 @@ main {
     background-color: rgb(216, 225, 187);
     flex: 1 0 auto;
     margin-top: 50px;
+    margin-bottom: 20px;
 }
 #social-networks {
     background-color: rgb(208, 197, 174);
@@ -88,6 +90,9 @@ main {
 } 
 #social-networks  i {
     font-size: 200%;
+}
+footer {
+    box-shadow: 0 0 0 2px rgb(12, 12, 12);
 }
 /* Media Query Tablets and larger */
 @media screen and (min-width:768px) {
