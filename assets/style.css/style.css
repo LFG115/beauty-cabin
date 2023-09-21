@@ -63,16 +63,19 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
-
 h3 {
     font-family: 'caveat brush', sans-serif;
     text-align: center;
     font-size: 45px;
 }
+#treatments-£ {
+    background-color: rgb(208, 197, 174);
+}
 #treatments-£ > li {
     font-family: 'caveat brush', sans-serif;
     font-size: 30px;
     text-align: center;
+    background-color: rgb(208, 197, 174);
 }
 main {
     background-color: rgb(216, 225, 187);
@@ -93,6 +96,13 @@ main {
 }
 footer {
     box-shadow: 0 0 0 2px rgb(12, 12, 12);
+}
+#bio {
+    font-family: 'caveat brush', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding: 35px 700px 35px 150px;
+    background-color: rgb(216, 225, 187);
 }
 /* Media Query Tablets and larger */
 @media screen and (min-width:768px) {
