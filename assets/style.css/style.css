@@ -32,6 +32,7 @@ header > a > h5 {
     text-decoration-thickness: 1px;
     text-decoration-skip-ink: auto;
     margin-top: -10px;
+    padding: 0rem 0.5rem;
 }
 #logo {
     font-family: 'water brush', Arial;
@@ -134,13 +135,11 @@ main {
     width: 150px;
     margin: 5px;
 }
-
 #qualified-logo2>img {
     height: 70px;
     width: 85px;
     margin: 5px;
 }
-
 #social-networks {
     background-color: rgb(208, 197, 174);
     text-align: center;
@@ -167,26 +166,21 @@ footer {
         padding: .5rem;
         justify-content: space-between;
     }
-
     header a {
         text-decoration: none;
         color: inherit;
         font-family: 'alex brush', sans-serif;
         font-weight: 600;
     }
-
     #menu {
         display: flex;
     }
-
     #menu > li {
         padding-left: 1rem;
     }
-
     .nav-toggle-label {
         display: none;
     }
-
     #logo {
         font-size: 230%;
         line-height: 75px;
@@ -214,11 +208,29 @@ footer {
         font-size: 45px;
         background-color: rgb(208, 197, 174);
     }
-    
     #treatments-£>li {
         font-family: 'caveat brush', sans-serif;
         font-size: 30px;
         text-align: center;
         background-color: rgb(208, 197, 174);
     }
+    #qualified {
+        font-size: 30px;
+        margin-top: 20px;
+        margin-bottom: 0px;
+    }
+    #qualified-logo1>img {
+        height: 120px;
+        width: 300px;
+        margin: 20px;
+        border-radius: 10%;
+    }
+    #qualified-logo2>img {
+        height: 120px;
+        width: 200px;
+        margin: 20px ;
+        border-radius: 10%;
+    }
+    #social-networks i {
+        font-size: 300%;
 }
