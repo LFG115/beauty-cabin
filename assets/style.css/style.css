@@ -70,23 +70,48 @@ main {
     margin-top: 47px;
 }
 
+#bio {
+    font-family: 'caveat brush', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    padding: 0;
+    background-color: rgb(216, 225, 187);
+    margin: 20px 5px 15px 5px;
+}
+
+#logo-image {
+    height: 150px;
+    width: 150px;
+    display: flex;
+    border-radius: 10%;
+    margin-left: 23%;
+}
+
 #treatments-£  {
     font-family: 'caveat brush', sans-serif;
     text-align: center;
-    font-size: 45px;
+    font-size: 22px;
     background-color: rgb(208, 197, 174);
 }
 #treatments-£ > li {
     font-family: 'caveat brush', sans-serif;
-    font-size: 30px;
+    font-size: 10px;
     text-align: center;
-    background-color: rgb(208, 197, 174);
+    background-color: rgb(208, 197, 174) ;
+    padding: 4px;
 }
 main {
     background-color: rgb(216, 225, 187);
     flex: 1 0 auto;
     margin-top: 50px;
     margin-bottom: 20px;
+}
+#qualified {
+    font-family: 'caveat brush', sans-serif;
+    font-size: 12px;
+    background-color: rgb(216, 225, 187);
+    margin: 20px 5px 15px 5px;
+    text-align: center;
 }
 #social-networks {
     background-color: rgb(208, 197, 174);
@@ -102,20 +127,8 @@ main {
 footer {
     box-shadow: 0 0 0 2px rgb(12, 12, 12);
 }
-#bio {
-    font-family: 'caveat brush', sans-serif;
-    font-size: 12px;
-    text-align: center;
-    padding: 0;
-    background-color: rgb(216, 225, 187);
-}
-#logo-image {
-    height: 200px;
-    width: 200px;
-    display: flex;
-    float:right;
-}
 
+/* Media Query for Tablets and larger */
 @media screen and (min-width:768px) {
     /* header */
     nav {
@@ -126,21 +139,26 @@ footer {
         padding: .5rem;
         justify-content: space-between;
     }
+
     header a {
         text-decoration: none;
         color: inherit;
         font-family: 'alex brush', sans-serif;
         font-weight: 600;
     }
+
     #menu {
         display: flex;
-    }g
-    #menu>li {
+    }
+
+    #menu > li {
         padding-left: 1rem;
     }
+
     .nav-toggle-label {
         display: none;
     }
+
     #logo {
         font-size: 280%;
         line-height: 75px;
@@ -163,5 +181,18 @@ footer {
         width: 400px;
         display: flex;
         float: right;
+    }
+    #treatments-£ {
+        font-family: 'caveat brush', sans-serif;
+        text-align: center;
+        font-size: 45px;
+        background-color: rgb(208, 197, 174);
+    }
+    
+    #treatments-£>li {
+        font-family: 'caveat brush', sans-serif;
+        font-size: 30px;
+        text-align: center;
+        background-color: rgb(208, 197, 174);
     }
 }
