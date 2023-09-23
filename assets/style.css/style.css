@@ -110,9 +110,26 @@ main {
     font-family: 'caveat brush', sans-serif;
     font-size: 12px;
     background-color: rgb(216, 225, 187);
-    margin: 20px 5px 15px 5px;
+    margin-top: 12px;
+    margin-bottom: 12px;
     text-align: center;
 }
+#logo-images {
+    display: flex;
+    justify-content: space-evenly;
+}
+#qualified-logo1>img {
+    height: 70px;
+    width: 150px;
+    margin: 5px;
+}
+
+#qualified-logo2>img {
+    height: 70px;
+    width: 85px;
+    margin: 5px;
+}
+
 #social-networks {
     background-color: rgb(208, 197, 174);
     text-align: center;
