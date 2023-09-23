@@ -11,7 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: rgb(216, 225, 187);
+    background-color: #f8f8f8
 }
 header {
     background-color: rgb(208, 197, 174);
@@ -76,18 +76,13 @@ nav {
     font-size: 2rem;
 }
 
-main {
-    flex: 1 0 auto;
-    margin-top: 47px;
-}
-
 #bio {
     font-family: 'caveat brush', sans-serif;
     font-size: 12px;
     text-align: center;
     padding: 0;
-    background-color: rgb(216, 225, 187);
-    margin: 15px 5px 20px 5px;
+    background-color: rgb(208, 197, 174);
+    margin: 20px 5px 5px 5px;
 }
 
 #logo-image {
@@ -95,7 +90,7 @@ main {
     width: 150px;
     display: flex;
     border-radius: 10%;
-    margin-left: 23%;
+    margin-left: 30%;
 }
 
 #treatments-£  {
@@ -113,7 +108,7 @@ main {
     margin-bottom: 0px;
 }
 main {
-    background-color: rgb(216, 225, 187);
+    background-color: #f8f8f8;
     flex: 1 0 auto;
     margin-top: 50px;
     margin-bottom: 20px;
