@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Caveat+Brush&family=Water+Brush&display=swap');
 
+/* Overriding page styles */
 * {
     padding: 0;
     margin: 0;
@@ -26,13 +27,13 @@ header {
 #logo {
     font-family: 'water brush', Arial;
     font-weight: 300;
-    text-decoration:underline;
+    text-decoration: underline;
     text-decoration-thickness: 1px;
     text-decoration-skip-ink: auto;
 }
 #menu {
     font-size: 115%;
-    letter-spacing: 2.5px;
+    letter-spacing: 4px;
     list-style-type: none;
 }
 #menu > li {
@@ -46,7 +47,7 @@ header a {
 }
 nav {
     position: absolute;
-    background-color: rgb(208, 197, 174);
+    background: rgb(208, 197, 174);
     width: 100%;
     left: 0;
     box-shadow: 0 2px 2px rgb(12, 12, 12);
@@ -63,12 +64,16 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
-h3 {
+
+main {
+    flex: 1 0 auto;
+    margin-top: 47px;
+}
+
+#treatments-£  {
     font-family: 'caveat brush', sans-serif;
     text-align: center;
     font-size: 45px;
-}
-#treatments-£ {
     background-color: rgb(208, 197, 174);
 }
 #treatments-£ > li {
@@ -99,12 +104,18 @@ footer {
 }
 #bio {
     font-family: 'caveat brush', sans-serif;
-    font-size: 30px;
+    font-size: 12px;
     text-align: center;
-    padding: 35px 700px 35px 150px;
+    padding: 0;
     background-color: rgb(216, 225, 187);
 }
-/* Media Query Tablets and larger */
+#logo-image {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    float:right;
+}
+
 @media screen and (min-width:768px) {
     /* header */
     nav {
@@ -113,11 +124,18 @@ footer {
         box-shadow: none;
         width: fit-content;
         padding: .5rem;
+        justify-content: space-between;
+    }
+    header a {
+        text-decoration: none;
+        color: inherit;
+        font-family: 'alex brush', sans-serif;
+        font-weight: 600;
     }
     #menu {
-        display:flex;
-    }
-    #menu > li {
+        display: flex;
+    }g
+    #menu>li {
         padding-left: 1rem;
     }
     .nav-toggle-label {
@@ -132,5 +150,18 @@ footer {
         background-color: rgb(216, 225, 187);
         flex: 1 0 auto;
         margin-top: 80px;
+    }
+    #bio {
+        font-family: 'caveat brush', sans-serif;
+        font-size: 30px;
+        text-align: center;
+        padding: 35px 700px 35px 150px;
+        background-color: rgb(216, 225, 187);
+    }
+    #logo-image {
+        height: 400px;
+        width: 400px;
+        display: flex;
+        float: right;
     }
 }
