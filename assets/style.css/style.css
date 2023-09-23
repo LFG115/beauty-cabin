@@ -15,7 +15,7 @@ body {
 }
 header {
     background-color: rgb(208, 197, 174);
-    padding: 0 1rem;
+    padding: 0rem 0.5rem;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -24,12 +24,22 @@ header {
     align-items: baseline;
     justify-content: space-between;
 } 
+header > a > h5 {
+    font-family: 'water brush', Arial;
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-skip-ink: auto;
+    margin-top: -10px;
+}
 #logo {
     font-family: 'water brush', Arial;
     font-weight: 300;
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-decoration-skip-ink: auto;
+    padding-bottom: -1px;
 }
 #menu {
     font-size: 115%;
@@ -37,7 +47,7 @@ header {
     list-style-type: none;
 }
 #menu > li {
-    margin-bottom: .5rem;
+    margin-bottom: 0.5rem;
 }
 header a {
     text-decoration: none;
