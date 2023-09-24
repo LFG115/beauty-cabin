@@ -25,7 +25,7 @@ header {
     justify-content: space-between;
 } 
 header > a > h5 {
-    font-family: 'water brush', Arial;
+    font-family: 'alex brush', Arial;
     font-size: 12px;
     font-weight: 400;
     text-decoration: underline;
@@ -35,7 +35,7 @@ header > a > h5 {
     padding: 0rem 0.5rem;
 }
 #logo {
-    font-family: 'water brush', Arial;
+    font-family: 'alex brush', Arial;
     font-weight: 300;
     text-decoration: underline;
     text-decoration-thickness: 1px;
@@ -152,7 +152,13 @@ footer {
 }
 /* Gallery & Review page*/
 /* Gallery */
-
+.gallery-section > h3 {
+    font-family: 'alex brush', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 1px;
+    letter-spacing: 2px;
+}
 #gallery > img {
     width: 100%;
     line-height: 1em;
@@ -163,6 +169,12 @@ footer {
     line-height: 0;
 }
 /* Review */
+.review-section>h3 {
+    font-family: 'alex brush', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 2px;
+}
 #review > img {
     width: 100%;
     line-height: 0.5em;
