@@ -110,7 +110,7 @@ nav {
 main {
     background-color: #f8f8f8;
     flex: 1 0 auto;
-    margin-top: 50px;
+    margin-top: 55px;
     margin-bottom: 20px;
 }
 #qualified {
@@ -152,6 +152,7 @@ footer {
 }
 /* Gallery & Review page*/
 /* Gallery */
+
 #gallery > img {
     width: 100%;
     line-height: 1em;
@@ -164,7 +165,7 @@ footer {
 /* Review */
 #review > img {
     width: 100%;
-    line-height: 1em;
+    line-height: 0.5em;
     padding: 3px 5px 2px 5px;
     background-color: rgb(208, 197, 174);
 }
