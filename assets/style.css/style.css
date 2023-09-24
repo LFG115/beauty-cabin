@@ -81,16 +81,18 @@ nav {
     font-size: 12px;
     text-align: center;
     padding: 0;
-    background-color: rgb(208, 197, 174);
+    background-color: #f8f8f8;
     margin: 20px 5px 5px 5px;
 }
 
 #logo-image {
     height: 150px;
     width: 150px;
-    display: flex;
+    display: block;
     border-radius: 10%;
-    margin-left: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
 #treatments-£  {
@@ -116,7 +118,7 @@ main {
 #qualified {
     font-family: 'caveat brush', sans-serif;
     font-size: 15px;
-    background-color: rgb(216, 225, 187);
+    background-color: #f8f8f8;
     padding-top: 2px;
     padding-bottom: 2px;
     text-align: center;
@@ -187,7 +189,7 @@ footer {
         margin: 0 0.5rem;
     }
     main {
-        background-color: rgb(216, 225, 187);
+        background-color: #f8f8f8;
         flex: 1 0 auto;
         margin-top: 80px;
     }
@@ -195,7 +197,7 @@ footer {
         font-family: 'caveat brush', sans-serif;
         font-size: 30px;
         text-align: center;
-        background-color: rgb(216, 225, 187);
+        background-color: #f8f8f8;
     }
     #logo-image {
         height: 400px;
