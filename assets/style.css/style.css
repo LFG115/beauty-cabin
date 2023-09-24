@@ -103,7 +103,7 @@ nav {
     font-family: 'caveat brush', sans-serif;
     font-size: 15px;
     text-align: center;
-    background-color: rgb(208, 197, 174) ;
+    background-color: rgb(208, 197, 174);
     padding: 2px;
     margin-bottom: 0px;
 }
@@ -151,6 +151,26 @@ footer {
     box-shadow: 0 0 0 2px rgb(12, 12, 12);
 }
 /* Gallery & Review page*/
+/* Gallery */
+#gallery > img {
+    width: 100%;
+    line-height: 1em;
+    padding: 3px 5px 2px 5px;
+    background-color: rgb(208, 197, 174);
+}
+#gallery {
+    line-height: 0;
+}
+/* Review */
+#review > img {
+    width: 100%;
+    line-height: 1em;
+    padding: 3px 5px 2px 5px;
+    background-color: rgb(208, 197, 174);
+}
+#review {
+    line-height: 0;
+}
 
 
 /* Media Query for Tablets and larger */
