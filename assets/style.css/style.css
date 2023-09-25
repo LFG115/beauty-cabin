@@ -160,10 +160,12 @@ footer {
     letter-spacing: 2px;
 }
 #gallery > img {
+    padding: 8px;
+    text-align: center;
+    flex-basis: 200px;
+    flex-grow: 1;
     width: 100%;
-    line-height: 1em;
-    padding: 3px 5px 2px 5px;
-    background-color: rgb(208, 197, 174);
+    
 }
 #gallery {
     line-height: 0;
@@ -271,6 +273,32 @@ footer {
     }
     #social-networks i {
         font-size: 300%;
+    }
+    /* Gallery & Review page*/
+    /* Gallery */
+    .gallery-section>h3 {
+        font-size: 25px;
+        padding-top: 2em;
+    }
+    
+    #gallery > img {
+        padding: 15px;
+        text-align: center;
+        flex-basis: 200px;
+        flex-grow: 1;
+    }
+    
+    #gallery {
+        
+    }
+    /* Review */
+    .review-section>h3 {
+    }
+    
+    #review>img {
+    }
+    
+    #review {  
     }
 }
 /* Media Query for Tablets and larger */
