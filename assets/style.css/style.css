@@ -165,7 +165,7 @@ footer {
     flex-basis: 200px;
     flex-grow: 1;
     width: 100%;
-    
+    background-color: rgb(208, 197, 174);
 }
 #gallery {
     line-height: 0;
@@ -180,7 +180,7 @@ footer {
 #review > img {
     width: 100%;
     line-height: 0.5em;
-    padding: 3px 5px 2px 5px;
+    padding: 5px 5px 5px 5px;
     background-color: rgb(208, 197, 174);
 }
 #review {
