@@ -160,15 +160,15 @@ footer {
     letter-spacing: 2px;
 }
 #gallery > img {
+    background-color: rgb(208, 197, 174);
     padding: 7px;
     text-align: center;
     flex-basis: 200px;
     flex-grow: 1;
     width: 100%;
-    background-color: rgb(208, 197, 174);
 }
 #gallery {
-    line-height: 1rem;
+    line-height: 1.5em;
 }
 /* Review */
 .review-section>h3 {
@@ -183,7 +183,7 @@ footer {
     background-color: rgb(208, 197, 174);
 }
 #review {
-    line-height: 1rem;
+    line-height: 1.5rem;
 }
 
 
@@ -205,10 +205,10 @@ footer {
         font-weight: 600;
         font-size: 16px;
     }
-    header>a>h5 {
+    header > a > h5 {
         font-family: 'alex brush', Arial;
         font-size: 28px;
-        font-weight: 900%;
+        font-weight: 500;
         margin: 0rem 0.5rem;
     }
     #menu {
@@ -270,36 +270,56 @@ footer {
         width: 200px;
         margin: 20px ;
         border-radius: 10%;
+    } 
+
+    /* Gallery & Review page*/
+    /* Gallery */
+    .gallery-section > h3 {
+        font-size: 40px;
+        padding-top: 1em;
+    } 
+    #gallery > img {
+        padding: 20px;
+    } 
+    #gallery {
+        line-height: 2rem;
     }
+
+    /* Review */
+    .review-section > h3 {
+        font-size: 40px;
+    }
+    #review > img {
+        padding: 20px;
+    }
+    #review {
+        line-height: 2rem;
+    }
+
+    /* Footer */
     #social-networks i {
         font-size: 300%;
     }
-    /* Gallery & Review page*/
-    /* Gallery */
-    .gallery-section>h3 {
-        font-size: 35px;
-        padding-top: 1em;
-    }
-    
-    #gallery > img {
-        display: flex;
-        flex-direction: column;
-    }
-    
-    #gallery {
-        
-    }
-    /* Review */
-    .review-section>h3 {
-    }
-    
-    #review>img {
-    }
-    
-    #review {  
-    }
 }
-/* Media Query for Tablets and larger */
-@media screen and (min-width:1000px) {
-
+/* Media Query for Laptops and larger */
+@media screen and (min-width:992px) {
+    /* Heading */
+    nav {
+        padding: 0.5rem;
+        justify-content: space-between;
+    }
+    header a {
+        font-size: 23px;
+    }
+    header > a > h5 {
+        font-size: 30px;
+        font-weight: 600;
+    }
+    #menu {
+        letter-spacing: 2px;
+    }
+    #menu > li {
+        padding-left: 2rem;
+    }
+    /* Bio section */
 }
