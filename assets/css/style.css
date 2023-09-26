@@ -125,12 +125,12 @@ main {
     display: flex;
     justify-content: space-evenly;
 }
-#qualified-logo1>img {
+#qualified-logo1 > img {
     height: 70px;
     width: 150px;
     margin: 5px;
 }
-#qualified-logo2>img {
+#qualified-logo2 > img {
     height: 70px;
     width: 85px;
     margin: 5px;
@@ -171,7 +171,7 @@ footer {
     line-height: 1.5em;
 }
 /* Review */
-.review-section>h3 {
+.review-section > h3 {
     font-family: 'alex brush', sans-serif;
     font-size: 22px;
     text-align: center;
@@ -248,7 +248,7 @@ footer {
         font-size: 45px;
         background-color: rgb(208, 197, 174);
     }
-    #treatments-£>li {
+    #treatments-£ > li {
         font-family: 'caveat brush', sans-serif;
         font-size: 30px;
         text-align: center;
@@ -259,13 +259,13 @@ footer {
         margin-top: 20px;
         margin-bottom: 0px;
     }
-    #qualified-logo1>img {
+    #qualified-logo1 > img {
         height: 120px;
         width: 300px;
         margin: 20px;
         border-radius: 10%;
     }
-    #qualified-logo2>img {
+    #qualified-logo2 > img {
         height: 120px;
         width: 200px;
         margin: 20px ;
@@ -322,4 +322,9 @@ footer {
         padding-left: 2rem;
     }
     /* Bio section */
+    #bio {
+        padding: 40px;
+        padding-bottom: 0;
+    }
+    
 }
