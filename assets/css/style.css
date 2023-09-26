@@ -28,7 +28,7 @@ header {
     align-items: baseline;
     justify-content: space-between;
 } 
-header > a > h5 {
+header > a > h2 {
     font-family: 'alex brush', Arial;
     font-size: 12px;
     font-weight: 400;
@@ -44,7 +44,6 @@ header > a > h5 {
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-decoration-skip-ink: auto;
-    padding-bottom: -1px;
 }
 #menu {
     font-size: 115%;
@@ -209,7 +208,7 @@ footer {
         font-weight: 600;
         font-size: 16px;
     }
-    header > a > h5 {
+    header > a > h2 {
         font-family: 'alex brush', Arial;
         font-size: 28px;
         font-weight: 500;
@@ -315,7 +314,7 @@ footer {
     header a {
         font-size: 23px;
     }
-    header > a > h5 {
+    header > a > h2 {
         font-size: 30px;
         font-weight: 600;
     }
