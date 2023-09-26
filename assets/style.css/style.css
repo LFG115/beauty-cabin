@@ -160,7 +160,7 @@ footer {
     letter-spacing: 2px;
 }
 #gallery > img {
-    padding: 8px;
+    padding: 7px;
     text-align: center;
     flex-basis: 200px;
     flex-grow: 1;
@@ -168,7 +168,7 @@ footer {
     background-color: rgb(208, 197, 174);
 }
 #gallery {
-    line-height: 0;
+    line-height: 1rem;
 }
 /* Review */
 .review-section>h3 {
@@ -179,12 +179,11 @@ footer {
 }
 #review > img {
     width: 100%;
-    line-height: 0.5em;
-    padding: 5px 5px 5px 5px;
+    padding: 5px;
     background-color: rgb(208, 197, 174);
 }
 #review {
-    line-height: 0;
+    line-height: 1rem;
 }
 
 
@@ -204,6 +203,7 @@ footer {
         color: inherit;
         font-family: 'alex brush', sans-serif;
         font-weight: 600;
+        font-size: 16px;
     }
     header>a>h5 {
         font-family: 'alex brush', Arial;
@@ -221,7 +221,7 @@ footer {
         display: none;
     }
     #logo {
-        font-size: 280%;
+        font-size:300%;
         line-height: 75px;
         margin: 0 1rem;
     }
@@ -277,8 +277,8 @@ footer {
     /* Gallery & Review page*/
     /* Gallery */
     .gallery-section>h3 {
-        font-size: 25px;
-        padding-top: 2em;
+        font-size: 35px;
+        padding-top: 1em;
     }
     
     #gallery > img {
