@@ -125,12 +125,23 @@ main {
     font-family: 'caveat brush', sans-serif;
     text-align: center;
 }
+#form {
+    text-align: center;
+}
+#form > label {
+    font-family: 'caveat brush', sans-serif;
+}
+#name, #email {
+    font-family: 'caveat brush', sans-serif;
+}
+#submit {
+    font-family: 'caveat brush', sans-serif;
+}
 #qualified {
     font-family: 'caveat brush', sans-serif;
     font-size: 15px;
-    background-color: #f8f8f8;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    background-color: rgb(208, 197, 174);
+    padding: 2px;
     text-align: center;
 }
 #logo-images {
