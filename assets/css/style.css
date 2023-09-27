@@ -133,9 +133,15 @@ main {
 }
 #name, #email {
     font-family: 'caveat brush', sans-serif;
+    background-color: rgb(208, 197, 174);
+    padding: 2px;
+    width:60%;
+    margin: 10px;
 }
 #submit {
     font-family: 'caveat brush', sans-serif;
+    background-color: rgb(208, 197, 174);
+    padding: 1px;
 }
 #qualified {
     font-family: 'caveat brush', sans-serif;
