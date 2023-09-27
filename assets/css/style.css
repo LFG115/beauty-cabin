@@ -6,6 +6,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+/*makes scrolling less agressive*/
 html {
     scroll-behavior: smooth;
 }
@@ -359,6 +360,7 @@ footer {
 }
 /* Media Query for Laptops and larger */
 @media screen and (min-width:1200px) {
+    /* heading */
     nav {
         padding: 1rem;
     }
@@ -375,10 +377,12 @@ footer {
     #menu > li {
         padding-left: 3rem;
     }
+    /* bio */
     #bio {
         padding: 65px;
         padding-bottom: 0;
     }
+    /* treatments */
     #treatments-£ {
         padding-top: 10px;
         padding-bottom: 10px;
