@@ -117,6 +117,14 @@ main {
     margin-top: 55px;
     margin-bottom: 20px;
 }
+#form-section {
+    padding-bottom: 20px;
+    width: 100%;
+}
+#form-section > form > h2 {
+    font-family: 'caveat brush', sans-serif;
+    text-align: center;
+}
 #qualified {
     font-family: 'caveat brush', sans-serif;
     font-size: 15px;
