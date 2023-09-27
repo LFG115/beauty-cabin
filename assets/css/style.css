@@ -333,4 +333,15 @@ footer {
     #social-networks i {
         font-size: 350%;
     }
+    /* gallery and reviews section */
+    /* Gallery */
+    .gallery-section > h3 {
+        font-size: 50px;
+    }
+    #gallery > img {
+        padding: 60px;
+    }
+    #gallery {
+        line-height: 4rem;
+    }
 }
