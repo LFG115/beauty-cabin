@@ -329,5 +329,8 @@ footer {
         padding: 40px;
         padding-bottom: 0;
     }
-    
+    /* footer */
+    #social-networks i {
+        font-size: 350%;
+    }
 }
