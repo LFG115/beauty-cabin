@@ -127,6 +127,7 @@ main {
 }
 #form {
     text-align: center;
+    color: black;
 }
 #form > label {
     font-family: 'caveat brush', sans-serif;
@@ -142,6 +143,7 @@ main {
     font-family: 'caveat brush', sans-serif;
     background-color: rgb(208, 197, 174);
     padding: 1px;
+    color: black;
 }
 #qualified {
     font-family: 'caveat brush', sans-serif;
@@ -213,6 +215,12 @@ footer {
 }
 #review {
     line-height: 1.5rem;
+}
+.thank-you {
+    text-align: center;
+    background-color: rgb(208, 197, 174);
+    padding: 20px;
+    letter-spacing: 1.5px;
 }
 
 
