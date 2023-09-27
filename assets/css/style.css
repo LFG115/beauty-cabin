@@ -274,6 +274,7 @@ footer {
         text-align: center;
         background-color: #f8f8f8;
         margin-top: 25px;
+        padding: 40px;
     }
     #logo-image {
         height: 400px;
@@ -365,8 +366,13 @@ footer {
     }
     /* Bio section */
     #bio {
-        padding: 40px;
+        padding: 55px;
         padding-bottom: 0;
+    }
+    #name, #email {
+        padding: 3px;
+        width: 100%;
+        margin: 10px;
     }
     /* footer */
     #social-networks i {
