@@ -333,6 +333,7 @@ footer {
     #social-networks i {
         font-size: 350%;
     }
+
     /* gallery and reviews section */
     /* Gallery */
     .gallery-section > h3 {
@@ -342,6 +343,17 @@ footer {
         padding: 60px;
     }
     #gallery {
+        line-height: 4rem;
+    }
+    
+    /* review */
+    .review-section > h3 {
+        font-size: 50px;
+    }
+    #review > img {
+        padding: 60px;
+    }
+    #review {
         line-height: 4rem;
     }
 }
