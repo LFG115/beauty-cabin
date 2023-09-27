@@ -282,10 +282,10 @@ footer {
         padding-top: 1em;
     } 
     #gallery > img {
-        padding: 20px;
+        padding: 50px;
     } 
     #gallery {
-        line-height: 2rem;
+        line-height: 3rem;
     }
 
     /* Review */
@@ -293,10 +293,10 @@ footer {
         font-size: 40px;
     }
     #review > img {
-        padding: 20px;
+        padding: 50px;
     }
     #review {
-        line-height: 2rem;
+        line-height: 3rem;
     }
 
     /* Footer */
@@ -337,23 +337,23 @@ footer {
     /* gallery and reviews section */
     /* Gallery */
     .gallery-section > h3 {
-        font-size: 50px;
+        font-size: 55px;
     }
     #gallery > img {
-        padding: 60px;
+        padding: 75px;
     }
     #gallery {
         line-height: 4rem;
     }
-    
+
     /* review */
     .review-section > h3 {
-        font-size: 50px;
+        font-size: 55px;
     }
     #review > img {
-        padding: 60px;
+        padding: 75px;
     }
     #review {
-        line-height: 4rem;
+        line-height: 5rem;
     }
 }
