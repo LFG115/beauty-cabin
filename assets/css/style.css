@@ -221,6 +221,7 @@ footer {
     background-color: rgb(208, 197, 174);
     padding: 20px;
     letter-spacing: 1.5px;
+    padding-top: 35px;
 }
 
 
@@ -337,6 +338,10 @@ footer {
     #social-networks i {
         font-size: 300%;
     }
+    .thank-you {
+        margin-top: 30px;
+        font-size: 40px;
+    }
 }
 /* Media Query for Laptops and larger */
 @media screen and (min-width:992px) {
@@ -390,6 +395,10 @@ footer {
     #review {
         line-height: 5rem;
     }
+    .thank-you {
+        margin-top: 40px;
+        font-size: 35px;
+    }
 }
 /* Media Query for Laptops and larger */
 @media screen and (min-width:1200px) {
@@ -419,5 +428,9 @@ footer {
     #treatments-£ {
         padding-top: 10px;
         padding-bottom: 10px;
+    }
+    .thank-you {
+        margin-top: 45px;
+        font-size: 40px;
     }
 }
