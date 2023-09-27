@@ -136,7 +136,7 @@ main {
     font-family: 'caveat brush', sans-serif;
     background-color: rgb(208, 197, 174);
     padding: 2px;
-    width:60%;
+    width: 40%;
     margin: 10px;
 }
 #submit {
@@ -371,7 +371,7 @@ footer {
     }
     #name, #email {
         padding: 3px;
-        width: 100%;
+        width: 30%;
         margin: 10px;
     }
     /* footer */
