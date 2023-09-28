@@ -25,7 +25,7 @@ Here customers can browse through the many treatmeants for all there eyelash and
 
 ### About Page
 
-- ##### Navigation
+- ##### Navigation Section
 
   - Positioned at the top of the page.
   - Contains title of the page in the left hand corner.
@@ -65,3 +65,18 @@ The Treatment section describes what treatmeants the Beaty Cabin can offer to th
 - Prices set in bold for definition
   
 ![treatmeant-image](/assets/images/treatments_section.png)
+
+---
+
+#### Sign-up Section
+
+The Sign-up section "Get in Touch!" is a contact form to let us know if your interested in what there is on offer.
+
+- All text input fields are customized.
+- Labels are animated when the input field is in focus and are not empty.
+- The page is responsive and look good on all common screen sizes.
+- Submitting the form leads to a response page that contains thank you message and asked to give a follow.
+  
+![sign-up image](/assets/images/start_your_journey.png)
+
+---
