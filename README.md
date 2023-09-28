@@ -48,11 +48,20 @@ Here customers can browse through the many treatmeants for all there eyelash and
 
  The Bio section is a brief description in the journey of becoming a beautician. With the description of prevous places of work with many years of experiance, and the skills and qualifications accuiered in this specific field and how the Beaty Cabin came to be.
 
-  - The original Beauty Cabing Logo underneath the bio.
-  - With an off white background.
-  - Google-font "caveat brush"
+- The original Beauty Cabing Logo underneath the bio.
+- With an off white background.
+- Google-font "caveat brush"
   
-
  ![logo-image](/assets/images/bio_and_logo_image.png)
 
 ---
+
+#### Treatments Section
+
+The Treatment section describes what treatmeants the Beaty Cabin can offer to there customers, with 14 different treatmeants in several different areas. Advertising such an extensive range of products all done by a trained professional at very resonable prices.
+
+- With an easy cream/bronze background-colour to match the layout of the page.
+- Google-font "caveat brush"
+- Prices set in bold for definition
+  
+![treatmeant-image](/assets/images/treatments_section.png)
