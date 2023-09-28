@@ -136,7 +136,7 @@ main {
     font-family: 'caveat brush', sans-serif;
     background-color: rgb(208, 197, 174);
     padding: 2px;
-    width: 30%;
+    width: 50%;
     margin: 10px;
 }
 #submit {
@@ -156,16 +156,16 @@ main {
     display: flex;
     justify-content: space-evenly;
 }
-#qualified-logo1>img {
-    height: 120px;
-    width: 300px;
-    margin: 20px;
+#qualified-logo1 > img {
+    height: 60px;
+    width: 170px;
+    margin: 1px;
     border-radius: 10%;
 }  
-#qualified-logo2>img {
-    height: 120px;
-    width: 200px;
-    margin: 20px;
+#qualified-logo2 > img {
+    height: 60px;
+    width: 100px;
+    margin-top: 1px;
     border-radius: 10%;
 }
 #social-networks {
@@ -295,34 +295,24 @@ footer {
         text-align: center;
         background-color: rgb(208, 197, 174);
     }
+    #name, #email {
+        width: 30%;
+    }
     #qualified {
         font-size: 30px;
         margin-top: 20px;
         margin-bottom: 0px;
     }
-    #qualified-logo1 > img {
-        height: 120px;
-        width: 300px;
-        margin: 20px;
-        border-radius: 10%;
-    }
-    #qualified-logo2 > img {
-        height: 120px;
-        width: 200px;
-        margin: 20px ;
-        border-radius: 10%;
-    } 
     #qualified-logo1>img {
-        height: 488px;
-        width: 1813px;
+        height: 150px;
+        width: 450px;
         margin: 5px;
     }
     #qualified-logo2>img {
-        height: 350px;
-        width: 600px;
+        height: 150px;
+        width: 300px;
         margin: 5px;
     }
-
     /* Gallery & Review page*/
     /* Gallery */
     .gallery-section > h3 {
