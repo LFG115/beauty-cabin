@@ -115,3 +115,20 @@ It also suggests you follow our socials which are located at the bottom of the p
 - Both links open the socails on a seperate page. 
   
 ![footer-socials](/assets/images/social_section.png)
+
+
+---
+
+
+#### Testing
+
+- I tested that the website works on chrome.
+- I used devtools and I used [Responsive Website Design Tester](https://responsivedesignchecker.com/) to confirm the website is responsive.
+- I tested all the links and confirmed that all of them work.
+
+
+---
+
+
+### Bugs
+
