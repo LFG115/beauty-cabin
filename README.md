@@ -5,7 +5,9 @@
 [The Beauty Cabin by Natasha Jaye](https://lfg115.github.io/beauty-cabin/index.html) is a bussiness website for the advertisemeant
 of services for a beautician.
 
-Here customers can browse through the many treatmeants for all there eyelash and eyebrow needs, prices at a very reasonable rate, gallery section which shows in close up detail the before and the **AMAZING** after, And then the reviews which give small but very meaningful insites to how happy and pleased the customers are. In addition to that we have a sign up page for customers who wish to join us on a pampering journey.
+Here customers can browse through the many treatmeants for all there eyelash and eyebrow needs, prices at a very reasonable rate, gallery section which shows in close up detail the before and the **AMAZING** after, And then the reviews which give small but very meaningful insites to how happy and pleased the customers are. In addition to that we have a sign up page for customers who wish to join us on a pampering journey. 
+
+The project goal for this web-page was to make a clean and clear website thats easy to use and easily accessible for all ages, our main target audiance for this site is women with a keen interest in there appearance.
 
 ![site on different devices](/assets/images/am_i_responsive.png)
 
@@ -94,7 +96,7 @@ Here customers can browse through the many treatmeants for all there eyelash and
 
 ---
 
-
+ 
 #### Response Page
 
 - The Response page is a hidden page that is opened apon completion of the sign-up section and takes you to a seprate page that informs you that we will be in touch soon.
@@ -122,7 +124,7 @@ Here customers can browse through the many treatmeants for all there eyelash and
 
 #### Testing
 
-- I tested that the website works on chrome.
+- I tested that the website works on chrome and safari.
 - I used devtools and I used [Responsive Website Design Tester](https://responsivedesignchecker.com/) to confirm the website is responsive.
 - I tested all the links and confirmed that all of them work.
 
@@ -161,7 +163,7 @@ Here customers can browse through the many treatmeants for all there eyelash and
     ![Performance lighthouse score](/assets/images/light_house.png)
 
 
-    ---
+---
 
 
 ### Deployment
@@ -186,6 +188,6 @@ Here customers can browse through the many treatmeants for all there eyelash and
 
   - All the images for the website were sent to me from the source called the Wife. as it is her own bussiness. [Natasha](https://www.facebook.com/thebeautycabinbynatashajaye)
   
-  - All people in the pictures were notified and allowed consent to use them.
+  - All people in the pictures were notified and consented to use them.
 
 ---
