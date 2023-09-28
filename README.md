@@ -46,7 +46,7 @@ Here customers can browse through the many treatmeants for all there eyelash and
   
 #### Bio Section
 
- The Bio section is a brief description in the journey of becoming a beautician. With the description of prevous places of work with many years of experiance, and the skills and qualifications accuiered in this specific field and how the Beaty Cabin came to be.
+- The Bio section is a brief description in the journey of becoming a beautician. With the description of prevous places of work with many years of experiance, and the skills and qualifications accuiered in this specific field and how the Beaty Cabin came to be.
 
 - The original Beauty Cabing Logo underneath the bio.
 - With an off white background.
@@ -58,7 +58,7 @@ Here customers can browse through the many treatmeants for all there eyelash and
 
 #### Treatments Section
 
-The Treatment section describes what treatmeants the Beaty Cabin can offer to there customers, with 14 different treatmeants in several different areas. Advertising such an extensive range of products all done by a trained professional at very resonable prices.
+- The Treatment section describes what treatmeants the Beaty Cabin can offer to there customers, with 14 different treatmeants in several different areas. Advertising such an extensive range of products all done by a trained professional at very resonable prices.
 
 - With an easy cream/bronze background-colour to match the layout of the page.
 - Google-font "caveat brush"
@@ -70,7 +70,7 @@ The Treatment section describes what treatmeants the Beaty Cabin can offer to th
 
 #### Sign-up Section
 
-The Sign-up section "Get in Touch!" is a contact form to let us know if your interested in what there is on offer.
+- The Sign-up section "Get in Touch!" is a contact form to let us know if your interested in what there is on offer.
 
 - All text input fields are customized.
 - Labels are animated when the input field is in focus and are not empty.
@@ -86,8 +86,8 @@ The Sign-up section "Get in Touch!" is a contact form to let us know if your int
 
 #### Qualification Section
 
-This section is for a slightly more indepth look into the skills and high grade qualifications that are in use when you attend.
-This can benefit the user and give them the knowledge and comfort of knowing they are looked after.
+- This section is for a slightly more indepth look into the skills and high grade qualifications that are in use when you attend.
+- This can benefit the user and give them the knowledge and comfort of knowing they are looked after.
 
 ![qualified section](/assets/images/qualified_section.png)
 
@@ -97,9 +97,9 @@ This can benefit the user and give them the knowledge and comfort of knowing the
 
 #### Response Page
 
-The Response page is a hidden page that is opened apon completion of the sign-up section and takes you to a seprate page that informs you that we will be in touch soon.
+- The Response page is a hidden page that is opened apon completion of the sign-up section and takes you to a seprate page that informs you that we will be in touch soon.
 
-It also suggests you follow our socials which are located at the bottom of the page, as well as a Home button to return to the main page.
+- It also suggests you follow our socials which are located at the bottom of the page, as well as a Home button to return to the main page.
 
 ![thanks for joining image](/assets/images/thanks_for_joining.png)
 
@@ -159,3 +159,16 @@ It also suggests you follow our socials which are located at the bottom of the p
 
   - Using lighthouse in devtools I confirmed that the website is performing well.
     ![Performance lighthouse score](/assets/images/light_house.png)
+
+
+    ---
+
+
+### Deployment
+
+- The website was deployed to GitHub pages and is accessed by this link: [The Beauty Cabin by Natasha Jaye](https://lfg115.github.io/beauty-cabin/index.html).
+
+
+---
+
+
