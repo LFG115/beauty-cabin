@@ -37,4 +37,9 @@ Here customers can browse through the many treatmeants for all there eyelash and
     - **Reviews** - which takes you to the review page.
   - There is css scroll-behavior added for a smoother experience.
   - The navigation is an easy cream/bronze colour for easy reading.
-  - The navigation bar is responsive and appears in a form of a hamburger menu on mobile devices.
+  - The navigation bar is responsive and appears in a form of a hamburger menu dropdown-box on mobile devices.
+  
+  ![nav-bar tablet +](/assets/images/logo_and_navbar.png)
+  ![nav-bar mobile](/assets/images/logo_and_navbar_on_mobile.png)
+
+  ---
