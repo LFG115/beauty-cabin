@@ -94,5 +94,11 @@ This can benefit the user and give them the knowledge and comfort of knowing the
 
 ---
 
+
 #### Response Page
 
+The Response page is a hidden page that is opened apon completion of the sign-up section and takes you to a seprate page that informs you that we will be in touch soon.
+
+It also suggests you follow our socials which are located at the bottom of the page, as well as a Home button to return to the main page.
+
+![thanks for joining image](/assets/images/thanks_for_joining.png)
