@@ -172,3 +172,20 @@ Here customers can browse through the many treatmeants for all there eyelash and
 ---
 
 
+#### Credits
+
+- ### Content
+
+  - To help me with the sign up buttons and response page I watched some videos of [Simon](https://www.youtube.com/@SuperSimpleDev/featured)
+  
+  - To make help me a bit more understand flex-box [Kevin Powell](https://www.youtube.com/@KevinPowell) on his YouTube channel.
+  
+  - To help with any mediocre problem [Stack Overflow](https://stackoverflow.com/questions) was very helpful with smaller tips and tricks with code
+
+- ### Media
+
+  - All the images for the website were sent to me from the source called the Wife. as it is her own bussiness. [Natasha](https://www.facebook.com/thebeautycabinbynatashajaye)
+  
+  - All people in the pictures were notified and allowed consent to use them.
+
+---
