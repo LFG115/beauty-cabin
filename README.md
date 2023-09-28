@@ -39,7 +39,20 @@ Here customers can browse through the many treatmeants for all there eyelash and
   - The navigation is an easy cream/bronze colour for easy reading.
   - The navigation bar is responsive and appears in a form of a hamburger menu dropdown-box on mobile devices.
   
-  ![nav-bar tablet +](/assets/images/logo_and_navbar.png)
-  ![nav-bar mobile](/assets/images/logo_and_navbar_on_mobile.png)
+ ![nav-bar tablet +](/assets/images/logo_and_navbar.png)
+ ![nav-bar mobile](/assets/images/logo_and_navbar_on_mobile.png)
 
   ---
+  
+#### Bio Section
+
+ The Bio section is a brief description in the journey of becoming a beautician. With the description of prevous places of work with many years of experiance, and the skills and qualifications accuiered in this specific field and how the Beaty Cabin came to be.
+
+  - The original Beauty Cabing Logo underneath the bio.
+  - With an off white background.
+  - Google-font "caveat brush"
+  
+
+ ![logo-image](/assets/images/bio_and_logo_image.png)
+
+---
