@@ -132,3 +132,14 @@ It also suggests you follow our socials which are located at the bottom of the p
 
 ### Bugs
 
+## Solved Bugs
+
+- I found a bug in the media query when I didn't take into consideration altering the screen sizes for larger screens first and not changing the smaller ones before hand. I had to go through the code all again to make sure nothing was canceling out.
+- I found a bug when adding the gallery pictures as they were not the correct size to start with and were much to small. The reason for this is because they were copys of copys of images, once i got hold of th originals they were great quality.
+  
+## Unsolved Bugs
+
+- I have come across a bug when on the response page with the nav menu. when on smaller screens it should only have the HOME button not the nav icon symbol. I havent had a chance to change this as of yet.
+
+
+---
