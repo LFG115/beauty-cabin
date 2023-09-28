@@ -80,4 +80,19 @@ The Sign-up section "Get in Touch!" is a contact form to let us know if your int
   
 ![sign-up image](/assets/images/sign_up.png)
 
+
 ---
+
+
+#### Qualification Section
+
+This section is for a slightly more indepth look into the skills and high grade qualifications that are in use when you attend.
+This can benefit the user and give them the knowledge and comfort of knowing they are looked after.
+
+![qualified section](/assets/images/qualified_section.png)
+
+
+---
+
+#### Response Page
+
