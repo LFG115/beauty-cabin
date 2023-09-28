@@ -75,8 +75,9 @@ The Sign-up section "Get in Touch!" is a contact form to let us know if your int
 - All text input fields are customized.
 - Labels are animated when the input field is in focus and are not empty.
 - The page is responsive and look good on all common screen sizes.
+- Both name and email are requiered for a submition.
 - Submitting the form leads to a response page that contains thank you message and asked to give a follow.
   
-![sign-up image](/assets/images/start_your_journey.png)
+![sign-up image](/assets/images/sign_up.png)
 
 ---
