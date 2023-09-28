@@ -143,3 +143,19 @@ It also suggests you follow our socials which are located at the bottom of the p
 
 
 ---
+
+
+#### Validator testing
+
+- ### HTML
+
+  - No errors or warnings were found when using the official W3C validator.
+
+- ### CSS
+  
+  - No errors or warnings were found when using the official W3C (Jigsaw) validator.
+
+- ### Accessibility and performance
+
+  - Using lighthouse in devtools I confirmed that the website is performing well.
+    ![Performance lighthouse score](/assets/images/light_house.png)
