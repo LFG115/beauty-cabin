@@ -102,3 +102,16 @@ The Response page is a hidden page that is opened apon completion of the sign-up
 It also suggests you follow our socials which are located at the bottom of the page, as well as a Home button to return to the main page.
 
 ![thanks for joining image](/assets/images/thanks_for_joining.png)
+
+
+---
+
+
+#### Footer Section
+
+- A bottom banner matching the header for colours and fonts, with black, white and cream/bronze.
+- The fontawesome icons increase and decrease depending on screen size.
+- Both of the links attatched to the icons re-direct you to both Facebok and Instagram socials.
+- Both links open the socails on a seperate page. 
+  
+![footer-socials](/assets/images/social_section.png)
